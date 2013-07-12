@@ -1,0 +1,14 @@
+{
+  "name": "svg-download",
+  "repo": "familyfound/svg-download",
+  "description": "Download svg's by embedding them as images",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
