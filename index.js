@@ -12,6 +12,7 @@ module.exports = function (title, svg, styles) {
   svg.setAttribute('title', title);
   svg.setAttribute('version', 1.1);
   svg.setAttribute('xmlns', NS);
+  svg.setAttribute('xmlns:xlink', 'http://www.w3.org/1999/xlink');
   div.appendChild(svg);
   src = div.innerHTML;
   if (next) {
